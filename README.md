@@ -1,6 +1,6 @@
 # DSAI-Mini-Project-SC1015
 Predicting Life Expectancy with Machine Learning
-
+By: Husen, Rohit, KW Pong
 Our Project:
 What is the most critical factor in determining one's life expectancy?
 
