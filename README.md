@@ -20,7 +20,7 @@ Linear Regression VS Classifaction Tree
 
 DataSet Used:
 World Happines Report(2022) from World Health Organisation
-Population Data
+Population Data by Country (2020) from WorldoMeter
 
 
 References:
@@ -32,3 +32,9 @@ Taulli, T. (2019, August 12). Hiring for the AI (artificial intelligence) revolu
 lucidv01dlucidv01d 2. (1962, April 1). Scikit-learn: How to obtain true positive, true negative, false positive and false negative. Stack Overflow. Retrieved April 21, 2023, from https://stackoverflow.com/questions/31324218/scikit-learn-how-to-obtain-true-positive-true-negative-false-positive-and-fal
 
 Helliwell, J. F., Layard, R., & Sachs, J. D. (2021). World Happiness Report 2021 (Report No. 20-309). Sustainable Development Solutions Network. https://worldhappiness.report/ed/2021/
+
+statsmodels-developers. (2021). regression: Linear Regression. statsmodels. Retrieved April 22, 2023, from https://www.statsmodels.org/stable/regression.html.
+
+Prabhu, T. (2020). Population by Country 2020. Kaggle. Retrieved April 22, 2023, from https://www.kaggle.com/tanuprabhu/population-by-country-2020.
+
+
