@@ -16,8 +16,11 @@ Global life expectancy at birth has increased significantly from an average of 3
 factors, which is the most important?
 
 Exploratory Data Analysis:
+
 • Sort and removing of values.
+
 • Combining of two data sets
+
 • Correlation Matrix to find the best 3 factors that affect life expectancy.
 
 Given the multifaceted nature of the present day socio-economic and environmental 
@@ -30,13 +33,19 @@ Machine Learning Technique:
 Linear Regression:
 
 • Usage of Stats model Package
+
 • Finding Residual Graph
+
 • Comparing Similarities of Error Terms
+
 • Finding Best Fit Line to Find Relations
 
 Classification Tree:
+
 • Use Discretization to Convert Continuous Variable to Categorical Variable
+
 • Convert 1D Array Predictor to 2D Array
+
 • Calculation of a 4 x 4 Confusion Matrics
 
 The primary objective of conducting two distinct machine learning techniques was to 
@@ -48,7 +57,9 @@ deeper insight into their respective capabilities and limitations.
 Conclusion:
 
 • Linear Regression is the best for continuous variables.
+
 • Logged GDP per Capita is the more important factor in predicting life expectancy.
+
 • Its recommended to pay more attention on Logged GDP per Capita to ensure a
 better chance of living a long life.
 
