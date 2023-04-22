@@ -63,6 +63,8 @@ Conclusion:
 • Its recommended to pay more attention on Logged GDP per Capita to ensure a
 better chance of living a long life.
 
+• Discretization is not a fullproof way to ensure accuracy.
+
 DataSet Used:
 
 World Happines Report(2022) from World Health Organisation
